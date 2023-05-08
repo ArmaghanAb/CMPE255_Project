@@ -2,7 +2,7 @@
 
 This project is  developed as a part of CMPE 255 Data Mining Course.
 
-**Description
+**Description**
 
 The dataset includes credit card transactions carried out by European cardholders in September 2013. It contains information on transactions made in two days, with 492 fraudulent transactions out of 284,807 transactions. This means that the dataset is significantly imbalanced, with only 0.172% of transactions being classified as fraud. 
 
