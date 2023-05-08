@@ -3,6 +3,7 @@
 This project is  developed as a part of CMPE 255 Data Mining Course.
 
 **Description
+
 The dataset includes credit card transactions carried out by European cardholders in September 2013. It contains information on transactions made in two days, with 492 fraudulent transactions out of 284,807 transactions. This means that the dataset is significantly imbalanced, with only 0.172% of transactions being classified as fraud. 
 
 The dataset only contains numerical features that have undergone a PCA transformation, with the exception of 'Time' and 'Amount'. The 'Time' feature indicates the time elapsed between the first transaction and each subsequent transaction, while the 'Amount' feature represents the transaction amount. The response variable is 'Class', which takes a value of 1 for fraud and 0 for legitimate transactions.
