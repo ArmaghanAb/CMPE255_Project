@@ -17,6 +17,8 @@ Task 2: Used 5 algorithms for Binary Classification .
 Task 3: Model Evaluation
 
 **Algorithms used**
+
+
 Logistic Regression	
 Support Vector Classifier	
 Decision Tree Classifier:
